@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="11" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-12T02:47:24Z" name="Suite" finished-at="2022-02-12T02:47:33Z" duration-ms="9681">
+    <groups>
+    </groups>
+    <test started-at="2022-02-12T02:47:24Z" name="Test" finished-at="2022-02-12T02:47:33Z" duration-ms="9681">
+      <class name="projectTestCases.TC001Login">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:projectTestCases.TC001Login@64ba3208]" started-at="2022-02-11T21:47:24Z" name="Setup" finished-at="2022-02-11T21:47:26Z" duration-ms="2364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="enter_user_details()[pri:0, instance:projectTestCases.TC001Login@64ba3208]" started-at="2022-02-11T21:47:26Z" name="enter_user_details" finished-at="2022-02-11T21:47:28Z" duration-ms="1685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_user_details -->
+        <test-method is-config="true" signature="closer()[pri:0, instance:projectTestCases.TC001Login@64ba3208]" started-at="2022-02-11T21:47:28Z" name="closer" finished-at="2022-02-11T21:47:28Z" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closer -->
+      </class> <!-- projectTestCases.TC001Login -->
+      <class name="projectTestCases.TC005contactUs">
+        <test-method signature="ConUs()[pri:0, instance:projectTestCases.TC005contactUs@5e1fa5b1]" started-at="2022-02-11T21:47:32Z" name="ConUs" finished-at="2022-02-11T21:47:33Z" duration-ms="1193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConUs -->
+      </class> <!-- projectTestCases.TC005contactUs -->
+      <class name="projectTestCases.TC002Registration">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:projectTestCases.TC002Registration@23fb172e]" started-at="2022-02-11T21:47:21Z" name="beforeMethod" finished-at="2022-02-11T21:47:24Z" duration-ms="2535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Registration_page1()[pri:0, instance:projectTestCases.TC002Registration@23fb172e]" started-at="2022-02-11T21:47:30Z" name="Registration_page1" finished-at="2022-02-11T21:47:32Z" duration-ms="1795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration_page1 -->
+        <test-method is-config="true" signature="closer()[pri:0, instance:projectTestCases.TC002Registration@23fb172e]" started-at="2022-02-11T21:47:33Z" name="closer" finished-at="2022-02-11T21:47:34Z" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closer -->
+      </class> <!-- projectTestCases.TC002Registration -->
+      <class name="projectTestCases.TC003Add_to_Cart$Login">
+        <test-method signature="Add_to_Cart_page()[pri:0, instance:projectTestCases.TC003Add_to_Cart$Login@158a3b2e]" started-at="2022-02-11T21:47:28Z" name="Add_to_Cart_page" finished-at="2022-02-11T21:47:29Z" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_to_Cart_page -->
+      </class> <!-- projectTestCases.TC003Add_to_Cart$Login -->
+      <class name="projectTestCases.TC004PurchaseGiftCertificate">
+        <test-method signature="Gift_Certificate()[pri:0, instance:projectTestCases.TC004PurchaseGiftCertificate@25a6944c]" started-at="2022-02-11T21:47:29Z" name="Gift_Certificate" finished-at="2022-02-11T21:47:30Z" duration-ms="1513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gift_Certificate -->
+      </class> <!-- projectTestCases.TC004PurchaseGiftCertificate -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
